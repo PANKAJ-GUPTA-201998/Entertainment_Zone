@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fun_Zone</string>
+    <string name="joke">Joke</string>
+    <string name="meme">Meme</string>
+    <string name="Gif">gif</string>
+
+    <string name="next">NEXT</string>
+    <string name="share">SHARE</string>
+    <string name="next2">Next</string>
+    <string name="share2">Share</string>
+</resources>
